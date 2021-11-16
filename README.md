@@ -1,1 +1,1 @@
-# IA
+# Codigo para a atividade 1 de inteiligencia artificial, porque BFS? por se tratar de um problema pequeno(numero total de estados com 3 canibal e 3 missionarios é 4*4=32), nao precissamos nos preocupar com memoria. para guardar os estados repitidos foi usado uma hashset, pois a lista encadeada consumia muito tempo.
